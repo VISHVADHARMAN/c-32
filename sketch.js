@@ -109,7 +109,7 @@ async function getBackgroundImg(){
         bg = "sprites/bg.png";
     }
     else{
-        bg = "sprites/bg2.png";
+        bg = "sprites/bg2.jpg";
     }
     backgroundImg = loadImage(bg);
     
